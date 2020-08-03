@@ -26,7 +26,7 @@
     "connect": "2.4.x",
     "express": "3.0.x",
     "flatiron": "0.2.x",
-    "request": "2.11.x",
+    "request": "2.88.x",
     "restify": "1.4.x",
     "vows": "0.6.x"
   },
