@@ -24,7 +24,7 @@
   ],
   "devDependencies": {
     "connect": "2.4.x",
-    "express": "3.0.x",
+    "express": "4.17.x",
     "flatiron": "0.2.x",
     "request": "2.11.x",
     "restify": "1.4.x",
