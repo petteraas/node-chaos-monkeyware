@@ -23,7 +23,7 @@
     "test"
   ],
   "devDependencies": {
-    "connect": "2.4.x",
+    "connect": "3.7.x",
     "express": "3.0.x",
     "flatiron": "0.2.x",
     "request": "2.11.x",
